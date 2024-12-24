@@ -17,7 +17,7 @@ Beezz Inventory Control is a fully functional Java SE application designed for o
   
 ---
 
-## Overview of Pages
+## Overview of Interfaces
 
 ### 1. Dashboard
 
