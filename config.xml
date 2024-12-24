@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\MyFiles\SAD\PrettyBee 2.0\dist\PrettyBee_2.0.jar</jar>
+  <outfile>D:\MyFiles\SAD\PrettyBee 2.0\dist\PrettyBeeNew.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\PrettyBee\Icon.ico</icon>
+  <singleInstance>
+    <mutexName>PrettyBeeNew</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>2.4.1.5</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>PrettyBee Inventory control System</fileDescription>
+    <copyright>Non</copyright>
+    <productVersion>2.4.1.5</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>PrettyBee</productName>
+    <companyName>Vexa</companyName>
+    <internalName>PrettyBee</internalName>
+    <originalFilename>PrettyBeeNew.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
