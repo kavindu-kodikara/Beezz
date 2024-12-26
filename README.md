@@ -4,7 +4,7 @@ Beezz Inventory Control is a fully functional Java SE application designed for o
 
 ## Technologies Used
 - **Java SE** for the main application logic and backend development.
-- **SQL Lite** for managing the database and storing information like invoices, products, customers, and transactions.
+- **SQLite** for managing the database and storing information like invoices, products, customers, and transactions.
 - **Swing** for building the user interface.
 - **JDBC** for database connectivity, ensuring smooth communication between the Java application and MySQL.
 
